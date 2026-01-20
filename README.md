@@ -5,12 +5,12 @@
 Vistora Ecommerce Sales Performance Dashboard (Power BI)
 
 2️⃣ Short Description / Purpose
-This project is an interactive Power BI dashboard designed to analyze and monitor ecommerce sales performance across different dimensions such as time, state, product category, payment mode, and customers.
-The goal of this dashboard is to help business stakeholders:
-Track overall sales and profitability
-Identify top-performing categories and states
-Understand monthly profit trends
-Make data-driven business decisions quickly
+*This project is an interactive Power BI dashboard designed to analyze and monitor ecommerce sales performance across different dimensions such as time, state, product category, payment mode, and customers.
+*The goal of this dashboard is to help business stakeholders:
+*Track overall sales and profitability
+*Identify top-performing categories and states
+*Understand monthly profit trends
+*Make data-driven business decisions quickly
 
 3️⃣ Tech Stack
 * Power BI Desktop
@@ -20,23 +20,23 @@ Make data-driven business decisions quickly
 * GitHub (project hosting & documentation)
 
 4️⃣ Data Source
-Dataset sourced from Kaggle
-Public ecommerce sales dataset containing:
-Order details
-Sales amount
-Profit
-Quantity sold
-Product category & sub-category
-Payment mode
-State-wise sales data
-The dataset was cleaned and transformed using Power Query before building the dashboard.
+* Dataset sourced from Kaggle
+* Public ecommerce sales dataset containing:
+* Order details
+* Sales amount
+* Profit
+* Quantity sold
+* Product category & sub-category
+* Payment mode
+* State-wise sales data
+* The dataset was cleaned and transformed using Power Query before building the dashboard.
 
 5️⃣ Features, Visuals & Business Use Cases
-🔹 Key KPIs (Cards)
-Total Sales Amount
-Total Profit
-Total Quantity Sold
-Average Order Value (AOV)
+* Key KPIs (Cards)
+* Total Sales Amount
+* Total Profit
+* Total Quantity Sold
+* Average Order Value (AOV)
 
 
 📌 Business Value:
