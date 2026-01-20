@@ -2,7 +2,8 @@
 
 
 1️⃣ Project Title / Headline
-Vistora Ecommerce Sales Performance Dashboard (Power BI)
+
+* Vistora Ecommerce Sales Performance Dashboard (Power BI)
 
 2️⃣ Short Description / Purpose
 * This project is an interactive Power BI dashboard designed to analyze and monitor ecommerce sales performance across different dimensions such as time, state, product category, payment mode, and customers.
